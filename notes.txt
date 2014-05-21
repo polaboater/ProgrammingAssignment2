@@ -1,0 +1,2 @@
+NOTES FOR ASSIGNMENT 2:
+	1) must assign makeVector() to a variable, then call sub functions on that variable.
